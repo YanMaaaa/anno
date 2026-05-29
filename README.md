@@ -1,5 +1,7 @@
 ## Fig. A. Vision-Encoder Training Ablation for Reviewers 3BJa W3/Q3 and d7C3 Q1
 
+This figure complements Fig.4/Appx.B.1 by adding Low-LR ViT+LLM and Last(8) ViT+LLM probes under the same Orsta-7B RL setting.
+
 ![Fig. A. Vision-encoder adaptation probes.](figures/vit_training_ablation.png)
 
 ## Table B. Gradient-Interference Diagnostic for Reviewer TZTQ W1
